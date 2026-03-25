@@ -1,6 +1,8 @@
 namespace apbd_wypozyczalnia_cw2_s33133.Models;
 
-public class EquipmentStatus
+public enum EquipmentStatus
 {
-    
+    Available,
+    Reserved,
+    Unavailable
 }
