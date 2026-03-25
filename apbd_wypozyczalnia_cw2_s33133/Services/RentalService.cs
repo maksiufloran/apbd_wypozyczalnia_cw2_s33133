@@ -1,4 +1,5 @@
 namespace apbd_wypozyczalnia_cw2_s33133.Services;
+using apbd_wypozyczalnia_cw2_s33133.Models;
 
 public class RentalService
 {
