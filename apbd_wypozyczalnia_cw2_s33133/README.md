@@ -17,4 +17,4 @@ Simple console app in C# for managing equipment rentals.
 
 ## Notes
 
-Project created for learning purposes. Basic OOP structure with simple logic.
+moja uczelnia kaze mi robic takie rzeczy. gita idzie skomplikowac
